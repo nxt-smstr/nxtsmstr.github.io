@@ -2527,6 +2527,7 @@
 		max-width: 65em;
 		width: calc(100% - 6em);
 		margin: 0 auto;
+		background-color: #e5474b;
 	}
 
 		@media screen and (max-width: 480px) {
