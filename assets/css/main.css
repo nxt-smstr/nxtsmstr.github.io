@@ -3515,6 +3515,7 @@
 
 			#banner h1 span {
 				font-weight: 400;
+				background-color:#b75656;
 			}
 
 		body.is-loading #banner:after {
